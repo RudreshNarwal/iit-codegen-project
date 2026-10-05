@@ -1,0 +1,2 @@
+autogen[openai]==0.14.1
+streamlit==1.65.0
